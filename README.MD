@@ -1,5 +1,5 @@
 Desktop Spaceman – Your macOS Spaces, Simplified
-
+![alt text](https://cdn.qwenlm.ai/output/eded60d5-1518-4e82-b006-e659e24f3718/t2i/3c53f894-470a-4745-a9b6-c376844be2c0/9e659474-ab09-4672-a2cb-a25d9c5413ee.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiZWRlZDYwZDUtMTUxOC00ZTgyLWIwMDYtZTY1OWUyNGYzNzE4IiwicmVzb3VyY2VfaWQiOiI5ZTY1OTQ3NC1hYjA5LTQ2NzItYTJjYi1hMjVkOWM1NDEzZWUiLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.bZQCgXj3qXSQ8HCd9gfrSav1kU6RZh7lOLy_JRQn2vM)
 Desktop Spaceman is a powerful yet lightweight menu bar utility that brings clarity to your macOS Spaces (Virtual Desktops). Instantly see which Space you're currently using—across multiple displays—with a sleek, customizable indicator. Whether you're juggling multiple workspaces or organizing your workflow, Desktop Spaceman makes navigation seamless and intuitive.
 
 Customize your view with four distinct styles: Rectangles, a clean and minimal representation of your Spaces; Numbers, displaying numbered Spaces for quick identification; Rectangles with Numbers, combining both visuals and numerical references; and Named Spaces, allowing you to assign custom names for a personalized workflow.
